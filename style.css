@@ -1,0 +1,44 @@
+﻿body
+{
+	font-family:Zawgyi-one;
+	margin:10px;
+	font-size:14px;
+	background:#e5ffc5;
+}
+
+#q
+{
+	background:#d2ed75 url("./images/search.png") no-repeat;
+	background-position: 4px 2px; /*left top*/
+	color:#233136;
+	padding-top:2px;
+	padding-left:25px;
+	-moz-border-radius: .4em;
+	-webkit-border-radius: .4em;
+	border-radius: .4em;
+	height:28px;
+	
+}
+
+#result
+{
+background:#97b4ba;
+	padding:10px;
+	margin-top:10px;
+	color:#233136;
+	-moz-border-radius: .8em;
+	-webkit-border-radius: .8em;
+	border-radius: .8em;
+	font-size:14px;
+	font-family:Zawgyi-one;
+}
+
+.word
+{
+color:#e5ffc5;
+}
+.state
+{
+	color:#F9FCFD;
+}
+
